@@ -16,6 +16,7 @@ deepdaiv 24w audio
 AI hub의 [한국어 음성 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=123)를 사용하였습니다. 이는 2,000여명이 발성한 한국어 대화음성 1,000시간으로 이루어져 있습니다. 두 사람이 다양한 주제로 자유롭게 대화하는 음성이 녹음되어 있습니다. 
 데이터는 발화 단위로 분할된 음성파일(16kHz/16bits, headerless (little endian) linear PCM)과 전사파일로 구성되어 있습니다.
 
+
 3. 워크플로우
 STT-Translation-TTS
 Ko-Speech(DeepSpeech2) Ko-BART TensorflowTTS(fastspeech2)
