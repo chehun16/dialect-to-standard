@@ -1,11 +1,8 @@
-# 24w_audio
+# Converting dialect speech to standard speech
 deepdaiv 24w audio
 
-1. 프로젝트 소개
-⭐ **사투리 인식 및 표준어 변환 시스템** ⭐입니다! 
-사투리 음성으로 주어지는 발화를 최종적으로 표준어 음성으로 출력하게 하는 모델입니다.
 
-2. 데이터 소개
+## Dataset
    
    **1) 한국어 방언 발화(경상도)**
 
